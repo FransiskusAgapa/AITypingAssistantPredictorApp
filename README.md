@@ -15,8 +15,6 @@ Typing assistants are becoming increasingly common in modern tools (like Gmail, 
 - Python programming
 - Software design and structuring small AI systems
 
-It also ties in well with Google’s focus on AI, accessibility, and user-first experiences.
-
 ---
 
 ## Tech Stack
@@ -48,9 +46,6 @@ It also ties in well with Google’s focus on AI, accessibility, and user-first 
 1. Clone the project repository (or download the files).
 2. Install the required libraries using `pip install -r requirements.txt`.
 3. Run the typing assistant using `python main.py`.
-4. (Optional) Run `python train_model.py` if you want to fine-tune your own version of GPT2.
-5. (Optional) Run `python sentiment_emoji.py` to test sentiment-to-emoji suggestions.
-
 ---
 
 ## Possible Future Improvements
