@@ -52,9 +52,4 @@ Typing assistants are becoming increasingly common in modern tools (like Gmail, 
 
 - Add word autocomplete (not just next-word suggestion).
 - Display multiple suggestions in a dropdown UI.
-- Add a browser-based front-end using Streamlit or React.
-- Allow users to switch models or train on their own data.
-- Support multiple languages (for international typing assistance).
-- Make the app mobile-friendly with voice input support.
-
 ---
