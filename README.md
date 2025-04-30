@@ -4,8 +4,6 @@
 
 This is a simple Python project that predicts the **next word** as a user types. It's powered by a small language model (GPT2-small) and shows how natural language processing (NLP) works in real-time typing applications. As a fun stretch goal, the assistant can also suggest an emoji based on the **sentiment** of your typed sentence.
 
-This project is designed to show key software and AI skills, making it a great fit for roles like Google's Software Engineering Early Career position.
-
 ---
 
 ## Why this app?
